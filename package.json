@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "prettier": "3.3.3"
-  },
-  "dependencies": {
-    "normalize.css": "^8.0.1"
-  }
-}
